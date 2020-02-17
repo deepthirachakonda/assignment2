@@ -1,3 +1,8 @@
-# assignment2
-React JS assignment 2
-Testing git
+install npm
+
+
+install necessary modules
+> npm install
+
+> npm run watch
+to run application on localhost:3000
